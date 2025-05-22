@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb1dc4fc2180ef245a30bf730be87f05, type: 3}
+  m_Name: Beelzebub shell
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Beelzebub shell
+  icon: {fileID: -947522925, guid: be55291aae08d434db3da3b59db3ab4a, type: 3}
+  itemId: c80a229e0e72798448b9b7e27572ed19
+  dropChance: 6.6
+  equipmentType: 1
+  itemCooldown: 0
+  itemEffects:
+  - {fileID: 11400000, guid: 9155834465cb69047b1e3bfcc5783e6f, type: 2}
+  - {fileID: 11400000, guid: 4ac468a0599d59047a965525c19c41b3, type: 2}
+  strength: 0
+  agility: 10
+  intelligence: 0
+  vitality: 0
+  damage: 0
+  critChance: 0
+  critPower: 0
+  armor: 100
+  health: 0
+  evasion: 0
+  magicResistance: 0
+  fireDamage: 0
+  iceDamage: 0
+  lightningDamage: 0
+  craftingMaterials:
+  - data: {fileID: 11400000, guid: 15666e0231bc0e545b177c9c77d8f98d, type: 2}
+    stackSize: 1

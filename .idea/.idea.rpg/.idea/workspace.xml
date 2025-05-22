@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1927272-5e81-40d1-a8e8-121f319aef4a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.rpg/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.rpg/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.rpg/.idea/prettier.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DefaultVolumeProfile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DefaultVolumeProfile.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fonts/zpix SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Fonts/zpix SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Extra/16 grid.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Extra/CameraManager.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Extra/Canvas.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Extra/DebrisPoolManager.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Extra/Enemies.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Extra/EventSystem.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Extra/Grid 32.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Extra/Inventory.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Extra/Physics2DManager.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Extra/Player.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Extra/PlayerManager.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Extra/SaveManager.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Extra/SkillManager.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Extra/VFX_Instances.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Extra/background.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Extra/ledges.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Recorder/5.1.1/Recorder Editor Sample/.sample.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Recorder/5.1.1/Recorder Editor Sample/RecorderEditorExample.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Recorder/5.1.1/Recorder Editor Sample/Unity.Recorder.Samples.Editor.api" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Recorder/5.1.1/Recorder Editor Sample/Unity.Recorder.Samples.Editor.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/.sample.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/3D Skybox/3DSkybox.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/3D Skybox/3DSkybox/3DSkyboxProfile.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/3D Skybox/3DSkybox/LightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/3D Skybox/3DSkybox/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/3D Skybox/Animation/3DSkyboxAnimation.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/3D Skybox/Animation/Main Camera.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/3D Skybox/BaseRenderer.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/3D Skybox/Materials/Building.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/3D Skybox/Materials/HighBuilding.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/3D Skybox/Materials/Planet 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/3D Skybox/Materials/Planet 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/3D Skybox/Prefabs/HighDetailBlock.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/3D Skybox/Prefabs/LowDetailBlock.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/3D Skybox/Prefabs/MediumDetailBlock.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/3D Skybox/Scripts/SkyboxCamera.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/3D Skybox/Shaders/SkyPlanet.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/3D Skybox/SkyboxRenderer.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/MixedFOV/MixedFOV.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/MixedFOV/MixedFOV/LightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/MixedFOV/MixedFOV/Lightmap-0_comp_dir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/MixedFOV/MixedFOV/Lightmap-0_comp_light.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/MixedFOV/MixedFOV/MixedFOVSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/MixedFOV/MixedFOV/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/MixedFOV/Prefabs/Gun.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/SplitScreen/SplitScreen.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/SplitScreen/SplitScreen/PostProcessingVolume Profile.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/CameraStacking/SplitScreen/SplitScreen/SplitScreenPPUISettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Decals/BlobShadow/Animation/BlobShadowAnimation.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Decals/BlobShadow/Animation/Capsule.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Decals/BlobShadow/BlobShadow.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Decals/BlobShadow/BlobShadow/LightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Decals/BlobShadow/BlobShadow/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Decals/BlobShadow/BlobShadowPipeline_Renderer.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Decals/BlobShadow/BlobShadow_Graph.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Decals/BlobShadow/BlobShadow_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Decals/PaintSplat/PaintSplat.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Decals/PaintSplat/PaintSplat/LightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Decals/PaintSplat/PaintSplat/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Decals/PaintSplat/PaintSplatPipeline_Renderer.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Decals/PaintSplat/PaintSplat_Graph.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Decals/PaintSplat/PaintSplat_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Decals/PaintSplat/WorldSpaceUV.shadersubgraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Decals/ProxyLighting/Materials/BlueSpotlight.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Decals/ProxyLighting/Materials/Spotlight.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Decals/ProxyLighting/Materials/Wall.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Decals/ProxyLighting/ProxyLighting.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Decals/ProxyLighting/ProxyLightingPipeline_Renderer.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Decals/ProxyLighting/Shaders/PointLight_Graph.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Decals/ProxyLighting/Shaders/SpotLightProxy_Graph.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/LensFlares/Animation/Main Camera.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/LensFlares/Animation/SunFlareAnimation.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/LensFlares/LensFlarePresets/17-270mm.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/LensFlares/LensFlarePresets/50mm.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/LensFlares/LensFlarePresets/Anamorphic_Sci-Fi.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/LensFlares/LensFlarePresets/Anamorphic_Sci-Fi2.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/LensFlares/LensFlarePresets/Anamorphic_Streak.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/LensFlares/LensFlarePresets/Arena_80s.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/LensFlares/LensFlarePresets/Caustic.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/LensFlares/LensFlarePresets/Caustic2.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/LensFlares/LensFlarePresets/Sci-Fi.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/LensFlares/LensFlarePresets/Shapes.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/LensFlares/LensFlarePresets/Simple.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/LensFlares/LensFlarePresets/Smartphone_Smudged.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/LensFlares/LensFlarePresets/Sun.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/LensFlares/LensFlareShowroom.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/LensFlares/Scripts/ScreenSpacePlacement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/LensFlares/SunFlare.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/LensFlares/SunFlare/LightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/LensFlares/SunFlare/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/LensFlares/Textures/PartialRIng.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/LensFlares/Textures/Ring.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/LensFlares/Textures/Shimmer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Lighting/Reflection Probes/Animation/New Lighting Settings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Lighting/Reflection Probes/Animation/Sphere Movement.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Lighting/Reflection Probes/Animation/Sphere.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Lighting/Reflection Probes/Reflection Probes.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Lighting/Reflection Probes/Reflection Probes/LightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Lighting/Reflection Probes/Reflection Probes/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Lighting/Reflection Probes/Reflection Probes/ReflectionProbe-1.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Lighting/Reflection Probes/Reflection Probes/ReflectionProbe-2.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Lighting/Reflection Probes/Reflection Probes/ReflectionProbe-3.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Lighting/Reflection Probes/Reflection Probes/ReflectionProbe-4.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Lighting/Reflection Probes/Reflection Probes/ReflectionProbe-5.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Lighting/Reflection Probes/Reflection Probes/ReflectionProbe-6.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Lighting/Reflection Probes/Reflection Probes/ReflectionProbe-7.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Lighting/Reflection Probes/Reflection Probes/ReflectionProbe-8.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Lighting/Reflection Probes/Reflection Probes/ReflectionProbe-9.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Lighting/Reflection Probes/Scene Materials/HandRails.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Lighting/Reflection Probes/Scene Materials/Panel.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Lighting/Reflection Probes/Scene Materials/Sphere.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/AmbientOcclusion/AmbientOcclusion.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/AmbientOcclusion/AmbientOcclusion/LightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/AmbientOcclusion/AmbientOcclusion/LightingSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/AmbientOcclusion/AmbientOcclusion/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/AmbientOcclusion/Animation/Main Camera.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/AmbientOcclusion/Animation/SSAO.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/AmbientOcclusion/SSAO_Renderer.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/BlitToRTHandle/BlitMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/BlitToRTHandle/BlitMaterial.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/BlitToRTHandle/BlitToRTHandle.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/BlitToRTHandle/BlitToRTHandlePass.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/BlitToRTHandle/BlitToRTHandleRenderer.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/BlitToRTHandle/BlitToRTHandleRendererFeature.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/BlitToRTHandle/Quad.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/BlitToRTHandle/Quad.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/BlitToRTHandle/Sphere_Opaque.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/BlitToRTHandle/Sphere_Transparent.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/DepthBlit/DepthBlit.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/DepthBlit/DepthBlitCopyDepthPass.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/DepthBlit/DepthBlitDepthOnlyPass.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/DepthBlit/DepthBlitEdgePass.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/DepthBlit/DepthBlitFeature.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/DepthBlit/DepthBlitRenderer.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/DepthBlit/DepthEdge.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/DepthBlit/DepthEdge.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/DistortTunnel/Distort.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/DistortTunnel/DistortTunnel.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/DistortTunnel/DistortTunnelPass_CopyColor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/DistortTunnel/DistortTunnelPass_Distort.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/DistortTunnel/DistortTunnelPass_Tunnel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/DistortTunnel/DistortTunnelRenderer.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/DistortTunnel/DistortTunnelRendererFeature.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/DistortTunnel/Plane/Plane.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/DistortTunnel/Plane/Plane.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/DistortTunnel/Plane/Plane_Trail.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/DistortTunnel/Plane/plane.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/DistortTunnel/Planet_Orange.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/DistortTunnel/Planet_Other.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/DistortTunnel/Tunnel.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/DistortTunnel/Tunnel.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/DistortTunnel/TunnelStar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/GlitchEffect/GlitchEffect.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/GlitchEffect/GlitchEffect/GlitchLightingSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/GlitchEffect/GlitchEffect/LightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/GlitchEffect/GlitchEffect/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/GlitchEffect/Glitch_Graph.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/GlitchEffect/Glitch_Material.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/GlitchEffect/Glitch_Renderer.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/KeepFrame/AdditiveParticle.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/KeepFrame/KeepFrame.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/KeepFrame/KeepFrameFeature.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/KeepFrame/KeepFramePipeline_Renderer.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/KeepFrame/SwirlyFrame.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/KeepFrame/SwirlyFrame_Graph.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/OcclusionEffect/Animation/MovingCubeAnimation.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/OcclusionEffect/Animation/MovinigCube.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/OcclusionEffect/Dither_Graph.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/OcclusionEffect/Dither_Material.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/OcclusionEffect/OcclusionEffect.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/OcclusionEffect/OcclusionEffect/LightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/OcclusionEffect/OcclusionEffect/OcclusionEffectSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/OcclusionEffect/OcclusionEffect/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/OcclusionEffect/OcclusionEffect_Renderer.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/TrailEffect/Animation/KeepFrame.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/TrailEffect/Animation/Sphere.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/TrailEffect/DepthHistory_Renderer.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/TrailEffect/DepthNormal.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/TrailEffect/Sand.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/TrailEffect/SandBoxModel.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/TrailEffect/Shaders/DepthColor_graph.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/TrailEffect/Shaders/Sand_Graph.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/TrailEffect/Shaders/TrailMap.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/TrailEffect/TrailEffect.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/TrailEffect/TrailEffect/LightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/TrailEffect/TrailEffect/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/TrailEffect/TrailEffect_Renderer.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/TrailEffect/TrailMap.renderTexture" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/RendererFeatures/TrailEffect/TrailMapDisplay.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Lit.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Lit/LightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Lit/LitLighting.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Lit/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Lit/ReflectionProbe-1.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Materials/BaseMap.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Materials/BaseRed.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Materials/BaseWhite.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Materials/BlueEmission.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Materials/EmissionMap.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Materials/EmissionOn.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Materials/HeightMapOn.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Materials/MetallicMap.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Materials/MetallicOn.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Materials/MetallicOne.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Materials/MetallicSmoothnessZero.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Materials/NormalMapOn.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Materials/OcclusionOn.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Materials/SmoothnessOne.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Materials/WithHeightMap.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Materials/WithNormalMap.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Materials/WithOcclusion.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Materials/WithoutNormalMap.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Models/UVSphere.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Prefabs/2Podium.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Prefabs/3Podium.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Prefabs/4Podium.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Prefabs/5Podium.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Prefabs/6Podium.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Textures/Coins_Base.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Textures/Coins_Emission.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Textures/Coins_Height.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Textures/Coins_Metallic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Textures/Coins_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/Shaders/Lit/Textures/Coins_Occlusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Fonts/Lato-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Materials/Blue.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Materials/CheckerFloor.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Materials/DarkGray.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Materials/Floor.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Materials/Green.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Materials/LightGray.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Materials/MatteCheckerFloor.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Materials/Orange.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Materials/Red.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Materials/Text.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Materials/Wall.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Materials/White.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Materials/Yellow.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Prefabs/CheckAssignedRenderPipelineAsset.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Prefabs/FirstPersonPlayer.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Prefabs/MainPanel.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Scripts/CheckAssignedRenderPipelineAsset.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Settings/Global Volume Profile.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Settings/PackageSamplesURPAsset.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Settings/SamplesForwardRenderer.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Shaders/3DText.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Shaders/GradientRemap_Graph.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Shaders/URPMainLight_Graph.shadersubgraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Shaders/Wall_Graph.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Sky.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP Package Samples/SharedAssets/Textures/Checker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP RenderGraph Samples/Blit w. FrameData/BlitRendererFeature.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP RenderGraph Samples/Blit/CopyRenderFeature.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP RenderGraph Samples/BlitWithMaterial/BlitAndSwapColorRendererFeature.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP RenderGraph Samples/BlitWithMaterial/BlitWithMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP RenderGraph Samples/BlitWithMaterial/BlitWithMaterial.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP RenderGraph Samples/Compute/ComputeRendererFeature.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP RenderGraph Samples/Compute/ComputeShaderExample.compute" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP RenderGraph Samples/FramebufferFetch/FrameBufferFetch.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP RenderGraph Samples/FramebufferFetch/FrameBufferFetch.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP RenderGraph Samples/FramebufferFetch/FrameBufferFetchRenderFeature.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP RenderGraph Samples/GbufferVisualization/GBuffer_Visualization_Material_Sample.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP RenderGraph Samples/GbufferVisualization/GBuffer_Visualization_Shader_Sample.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP RenderGraph Samples/GbufferVisualization/GbufferVisualizationRendererFeature.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP RenderGraph Samples/GlobalGbuffers/GlobalGbuffersRendererFeature.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP RenderGraph Samples/MRT/MrtColor.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP RenderGraph Samples/MRT/MrtMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP RenderGraph Samples/MRT/MrtRendererFeature.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP RenderGraph Samples/OutputTexture/BlitTargetTexture.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP RenderGraph Samples/OutputTexture/OutputTextureRendererFeature.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP RenderGraph Samples/RendererList/RendererListRenderFeature.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP RenderGraph Samples/TextureReference w. FrameData/TextureRefRendererFeature.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Samples/Universal RP/17.0.3/URP RenderGraph Samples/UnsafePass/UnsafePassRenderFeature.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainLevel1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainLevel1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/URPtestLevel.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/URPtestLevel.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Detection Animation Etc/LedgeTriggerDetection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Detection Animation Etc/LedgeTriggerDetection.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player/Camera/Adjust.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Player/Camera/Adjust.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player/Camera/CameraManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Player/Camera/CameraManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player/Camera/NewCamera.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Player/Camera/NewCamera.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player/InputSystem/PlayerInputActions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Player/InputSystem/PlayerInputActions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Player/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player/PlayerAnimationTriggers.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Player/PlayerAnimationTriggers.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player/PlayerStateMachine/SubState/PlayerAirState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Player/PlayerStateMachine/SubState/PlayerAirState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player/PlayerStateMachine/SubState/PlayerThrowGrenadeState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Player/PlayerStateMachine/SubState/PlayerThrowGrenadeState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player/Skills/SkillController/BlackholeSkillController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Player/Skills/SkillController/BlackholeSkillController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/Scenes/URP2DSceneTemplate.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/Scenes/URP2DSceneTemplate.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRP.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRP.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/CyberPunkShader.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/CyberPunkShader.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/State Machine/State Machine Demo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/State Machine/State Machine Demo.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Electronic Highway Sign SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Electronic Highway Sign SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/01-  Single Line TextMesh Pro.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/01-  Single Line TextMesh Pro.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/02 - Multi-line TextMesh Pro.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/02 - Multi-line TextMesh Pro.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/03 - Line Justification.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/03 - Line Justification.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/04 - Word Wrapping.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/04 - Word Wrapping.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/05 - Style Tags.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/05 - Style Tags.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/06 - Extra Rich Text Examples.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/06 - Extra Rich Text Examples.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/07 - Superscript &amp; Subscript Example.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/07 - Superscript &amp; Subscript Example.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/08 - Improved Text Alignment.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/08 - Improved Text Alignment.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/09 - Margin Tag Example.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/09 - Margin Tag Example.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/10 - Bullets &amp; Numbered List Example.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/10 - Bullets &amp; Numbered List Example.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/11 - The Style Tag.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/11 - The Style Tag.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/12 - Link Example.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/12 - Link Example.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/12a - Text Interactions.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/12a - Text Interactions.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/13 - Soft Hyphenation.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/13 - Soft Hyphenation.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/14 - Multi Font &amp; Sprites.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/14 - Multi Font &amp; Sprites.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/15 - Inline Graphics &amp; Sprites.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/15 - Inline Graphics &amp; Sprites.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/16 - Linked text overflow mode example.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/16 - Linked text overflow mode example.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/17 - Old Computer Terminal.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/17 - Old Computer Terminal.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/18 - ScrollRect &amp; Masking &amp; Layout.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/18 - ScrollRect &amp; Masking &amp; Layout.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/19 - Masking Texture &amp; Soft Mask.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/19 - Masking Texture &amp; Soft Mask.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/20 - Input Field with Scrollbar.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/20 - Input Field with Scrollbar.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/21 - Script Example.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/21 - Script Example.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/22 - Basic Scripting Example.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/22 - Basic Scripting Example.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/23 - Animating Vertex Attributes.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/23 - Animating Vertex Attributes.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/24 - Surface Shader Example.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/24 - Surface Shader Example.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/25 - Sunny Days Example.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/25 - Sunny Days Example.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/26 - Dropdown Placeholder Example.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/26 - Dropdown Placeholder Example.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/27 - Double Pass Shader Example.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/27 - Double Pass Shader Example.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/28 - HDRP Shader Example.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/28 - HDRP Shader Example.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/Benchmark (Floating Text).unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scenes/Benchmark (Floating Text).unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/RT_MainCameraOutput.renderTexture" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/RT_MainCameraOutput.renderTexture" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/URP Render/New Universal Render Pipeline Asset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/URP Render/New Universal Render Pipeline Asset.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/URP Render/URPFor2DPixel.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/URP Render/URPFor2DPixel.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/URP Render/URPFor2DPixel_Renderer.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/URP Render/URPFor2DPixel_Renderer.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Volume/CRT_Scanline_Profile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Volume/CRT_Scanline_Profile.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autodesk.Fbx.BuildTestAssets.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Autodesk.Fbx.BuildTestAssets.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autodesk.Fbx.BuildTestAssets.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Autodesk.Fbx.BuildTestAssets.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autodesk.Fbx.BuildTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Autodesk.Fbx.BuildTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autodesk.Fbx.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Autodesk.Fbx.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autodesk.Fbx.PlayModeTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Autodesk.Fbx.PlayModeTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autodesk.Fbx.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Autodesk.Fbx.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autodesk.Fbx.UnitTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Autodesk.Fbx.UnitTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autodesk.Fbx.UseCaseTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Autodesk.Fbx.UseCaseTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autodesk.Fbx.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Autodesk.Fbx.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinemachine.Editor.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Cinemachine.Editor.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinemachine.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Cinemachine.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinemachine.Runtime.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Cinemachine.Runtime.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinemachine.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Cinemachine.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrashKonijn.Agent.Core.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CrashKonijn.Agent.Core.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrashKonijn.Agent.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CrashKonijn.Agent.Core.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrashKonijn.Agent.Runtime.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CrashKonijn.Agent.Runtime.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrashKonijn.Agent.Runtime.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CrashKonijn.Agent.Runtime.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrashKonijn.Goap.Core.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CrashKonijn.Goap.Core.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrashKonijn.Goap.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CrashKonijn.Goap.Core.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrashKonijn.Goap.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CrashKonijn.Goap.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrashKonijn.Goap.Resolver.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CrashKonijn.Goap.Resolver.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrashKonijn.Goap.Resolver.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CrashKonijn.Goap.Resolver.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrashKonijn.Goap.Runtime.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CrashKonijn.Goap.Runtime.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrashKonijn.Goap.Runtime.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CrashKonijn.Goap.Runtime.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DocCodeExamples.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DocCodeExamples.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MerryYellow.CodeAssist.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MerryYellow.CodeAssist.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPv2URPConverters.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/PPv2URPConverters.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScriptablePacker.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptablePacker.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.Animation.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.Animation.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.Animation.EditorTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.Animation.EditorTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.Animation.Runtime.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.Animation.Runtime.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.Animation.Runtime.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.Animation.Runtime.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.Common.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.Common.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.Common.EditorTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.Common.EditorTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.Common.Path.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.Common.Path.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.Common.Runtime.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.Common.Runtime.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.Common.Runtime.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.Common.Runtime.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.IK.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.IK.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.IK.Runtime.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.IK.Runtime.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.IK.Runtime.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.IK.Runtime.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.PixelPerfect.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.PixelPerfect.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.PixelPerfect.EditorTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.PixelPerfect.EditorTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.PixelPerfect.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.PixelPerfect.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.PixelPerfect.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.PixelPerfect.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.Sprite.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.Sprite.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.Sprite.Package.EditorTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.Sprite.Package.EditorTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.SpriteShape.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.SpriteShape.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.SpriteShape.EditorTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.SpriteShape.EditorTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.SpriteShape.Runtime.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.SpriteShape.Runtime.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.SpriteShape.Runtime.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.SpriteShape.Runtime.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.Tilemap.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.Tilemap.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.Tilemap.Extras.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.Tilemap.Extras.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.Tilemap.Extras.Placeholder.EditorTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.Tilemap.Extras.Placeholder.EditorTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.Tilemap.Extras.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.Tilemap.Extras.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.Tilemap.Extras.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.Tilemap.Extras.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.2D.Tilemap.Package.EditorTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.2D.Tilemap.Package.EditorTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Animation.Rigging.DocCodeExamples.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Animation.Rigging.DocCodeExamples.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Animation.Rigging.DocCodeExamples.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Animation.Rigging.DocCodeExamples.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Animation.Rigging.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Animation.Rigging.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Animation.Rigging.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Animation.Rigging.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Animation.Rigging.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Animation.Rigging.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Bindings.OpenImageIO.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Bindings.OpenImageIO.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Burst.CodeGen.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Burst.CodeGen.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Burst.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Burst.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Burst.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Burst.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Burst.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Burst.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Cinemachine.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Cinemachine.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Cinemachine.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Cinemachine.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.CollabProxy.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.CollabProxy.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Collections.BurstCompatibilityGen.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Collections.BurstCompatibilityGen.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Collections.CodeGen.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Collections.CodeGen.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Collections.DocCodeSamples.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Collections.DocCodeSamples.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Collections.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Collections.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Collections.PerformanceTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Collections.PerformanceTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Collections.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Collections.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Collections.Tests.Playmode.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Collections.Tests.Playmode.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Collections.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Collections.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Collections.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Collections.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Formats.Alembic.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Formats.Alembic.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Formats.Alembic.Runtime.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Formats.Alembic.Runtime.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Formats.Alembic.Runtime.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Formats.Alembic.Runtime.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Formats.Fbx.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Formats.Fbx.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Formats.Fbx.Runtime.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Formats.Fbx.Runtime.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Formats.Fbx.Runtime.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Formats.Fbx.Runtime.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.InputSystem.ForUI.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.InputSystem.ForUI.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.InputSystem.ForUI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.InputSystem.ForUI.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.InputSystem.IntegrationTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.InputSystem.IntegrationTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.InputSystem.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.InputSystem.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.InputSystem.TestFramework.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.InputSystem.TestFramework.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.InputSystem.TestFramework.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.InputSystem.TestFramework.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.InputSystem.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.InputSystem.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.InternalAPIEditorBridge.001.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.InternalAPIEditorBridge.001.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.InternalAPIEngineBridge.001.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.InternalAPIEngineBridge.001.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.InternalAPIEngineBridge.001.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.InternalAPIEngineBridge.001.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.LightTransport.Editor.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.LightTransport.Editor.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Mathematics.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Mathematics.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Mathematics.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Mathematics.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Mathematics.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Mathematics.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Mathematics.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Mathematics.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Nuget.Mono-Cecil.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Nuget.Mono-Cecil.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.OpenImageIO.Editor.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.OpenImageIO.Editor.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.PerformanceTesting.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.PerformanceTesting.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.PerformanceTesting.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.PerformanceTesting.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.PerformanceTesting.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.PerformanceTesting.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.PlasticSCM.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.PlasticSCM.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Recorder.Base.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Recorder.Base.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Recorder.Base.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Recorder.Base.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Recorder.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Recorder.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Recorder.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Recorder.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Recorder.Samples.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Recorder.Samples.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Recorder.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Recorder.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipeline.Universal.ShaderLibrary.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipeline.Universal.ShaderLibrary.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipeline.Universal.ShaderLibrary.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipeline.Universal.ShaderLibrary.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.Core.Editor.Shared.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.Core.Editor.Shared.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.Core.Editor.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.Core.Editor.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.Core.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.Core.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.Core.Runtime.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.Core.Runtime.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.Core.Runtime.Shared.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.Core.Runtime.Shared.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.Core.Runtime.Shared.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.Core.Runtime.Shared.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.Core.Runtime.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.Core.Runtime.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.Core.Runtime.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.Core.Runtime.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.Core.ShaderLibrary.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.Core.ShaderLibrary.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.Core.ShaderLibrary.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.Core.ShaderLibrary.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.GPUDriven.Runtime.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.GPUDriven.Runtime.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.GPUDriven.Runtime.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.GPUDriven.Runtime.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.Universal.2D.Runtime.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.Universal.2D.Runtime.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.Universal.2D.Runtime.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.Universal.2D.Runtime.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.Universal.Config.Editor.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.Universal.Config.Editor.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.Universal.Config.Runtime.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.Universal.Config.Runtime.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.Universal.Config.Runtime.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.Universal.Config.Runtime.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.Universal.Editor.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.Universal.Editor.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.Universal.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.Universal.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.Universal.Runtime.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.Universal.Runtime.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.Universal.Runtime.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.Universal.Runtime.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.Universal.Runtime.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.Universal.Runtime.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.Universal.Shaders.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.Universal.Shaders.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.RenderPipelines.Universal.Shaders.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.RenderPipelines.Universal.Shaders.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Rendering.LightTransport.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Rendering.LightTransport.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Rendering.LightTransport.Runtime.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Rendering.LightTransport.Runtime.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Rendering.LightTransport.Runtime.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Rendering.LightTransport.Runtime.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Rider.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Rider.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Searcher.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Searcher.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Searcher.EditorTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Searcher.EditorTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Sequences.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Sequences.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Sequences.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Sequences.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Sequences.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Sequences.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Settings.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Settings.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Settings.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Settings.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.ShaderGraph.Editor.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.ShaderGraph.Editor.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.ShaderGraph.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.ShaderGraph.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.ShaderGraph.Utilities.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.ShaderGraph.Utilities.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Splines.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Splines.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Splines.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Splines.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.TextMeshPro.Editor.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.TextMeshPro.Editor.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.TextMeshPro.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.TextMeshPro.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.TextMeshPro.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.TextMeshPro.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.TextMeshPro.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.TextMeshPro.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.TextMeshPro.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.TextMeshPro.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Timeline.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Timeline.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Timeline.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Timeline.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.Timeline.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Timeline.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.VisualScripting.Core.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.VisualScripting.Core.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.VisualScripting.Core.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.VisualScripting.Core.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.VisualScripting.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.VisualScripting.Core.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.VisualScripting.Flow.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.VisualScripting.Flow.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.VisualScripting.Flow.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.VisualScripting.Flow.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.VisualScripting.Flow.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.VisualScripting.Flow.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.VisualScripting.SettingsProvider.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.VisualScripting.SettingsProvider.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.VisualScripting.Shared.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.VisualScripting.Shared.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.VisualScripting.State.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.VisualScripting.State.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.VisualScripting.State.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.VisualScripting.State.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.VisualScripting.State.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.VisualScripting.State.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.VisualStudio.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.VisualStudio.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityEditor.TestRunner.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UnityEditor.TestRunner.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityEditor.UI.EditorTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UnityEditor.UI.EditorTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityEditor.UI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UnityEditor.UI.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityEngine.TestRunner.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UnityEngine.TestRunner.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityEngine.TestRunner.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UnityEngine.TestRunner.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityEngine.UI.Player.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UnityEngine.UI.Player.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityEngine.UI.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UnityEngine.UI.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityEngine.UI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UnityEngine.UI.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.talecrafter.animationimporter.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/com.talecrafter.animationimporter.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.unity.cinemachine.editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/com.unity.cinemachine.editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpg.sln" beforeDir="false" afterPath="$PROJECT_DIR$/rpg.sln" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/b5bf0c891ea345fe93688f835df32fdc1dda00/b7/5b943cb6/SceneManager.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2uyJ2HBLX7GnN4BL98D9I2MZxqJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Attach to Unity Editor.Attach to Unity Editor.executor&quot;: &quot;Debug&quot;,
+    &quot;HbShouldOpenHtmlAsHb&quot;: &quot;disabled&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Recordings\save human.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\MAXIS\rpg\Recordings" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.26f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\MAXIS\rpg -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\MAXIS\rpg" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.26f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\MAXIS\rpg -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\MAXIS\rpg" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1927272-5e81-40d1-a8e8-121f319aef4a" name="Changes" comment="" />
+      <created>1743214674723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743214674723</updated>
+      <workItem from="1743214677831" duration="1121000" />
+      <workItem from="1743216747673" duration="177000" />
+      <workItem from="1743222524664" duration="64000" />
+      <workItem from="1743224667213" duration="3000" />
+      <workItem from="1743224779043" duration="3503000" />
+      <workItem from="1743229603362" duration="596000" />
+      <workItem from="1743230231621" duration="9039000" />
+      <workItem from="1743252408252" duration="18569000" />
+      <workItem from="1743369324538" duration="12470000" />
+      <workItem from="1743680871088" duration="17423000" />
+      <workItem from="1743714746387" duration="30661000" />
+      <workItem from="1744034186277" duration="1307000" />
+      <workItem from="1744319061783" duration="4773000" />
+      <workItem from="1744324206288" duration="1670000" />
+      <workItem from="1744325910037" duration="8025000" />
+      <workItem from="1744338185776" duration="1044000" />
+      <workItem from="1744340387256" duration="23203000" />
+      <workItem from="1744502695155" duration="7647000" />
+      <workItem from="1744668435123" duration="19887000" />
+      <workItem from="1745381493368" duration="3757000" />
+      <workItem from="1745387217358" duration="15000" />
+      <workItem from="1745387263834" duration="2751000" />
+      <workItem from="1745396341939" duration="4900000" />
+      <workItem from="1745401778757" duration="1216000" />
+      <workItem from="1745403600949" duration="40641000" />
+      <workItem from="1745845410054" duration="3001000" />
+      <workItem from="1745974019699" duration="1695000" />
+      <workItem from="1746160033917" duration="1129000" />
+      <workItem from="1747885111216" duration="381000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

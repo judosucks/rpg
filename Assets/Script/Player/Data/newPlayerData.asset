@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d18b27e2b4e39604e8cb1026604d930a, type: 3}
+  m_Name: newPlayerData
+  m_EditorClassIdentifier: 
+  attackCheckRadius: 0.28
+  groundCheckDistance: 0.06
+  wallCheckDistance: 0.2
+  bottomGroundCheckDistance: 0.52
+  headCheckDistance: 0.07
+  ceilingCheckDistance: 0.2
+  groundAndEdgeLayer:
+    serializedVersion: 2
+    m_Bits: 16392
+  whatIsLedge:
+    serializedVersion: 2
+    m_Bits: 4168
+  whatIsSlope:
+    serializedVersion: 2
+    m_Bits: 131080
+  whatIsLadder:
+    serializedVersion: 2
+    m_Bits: 65536
+  whatIsGround:
+    serializedVersion: 2
+    m_Bits: 8
+  whatIsEdge:
+    serializedVersion: 2
+    m_Bits: 16384
+  whatIsWall:
+    serializedVersion: 2
+    m_Bits: 64
+  whatIsCeiling:
+    serializedVersion: 2
+    m_Bits: 262144
+  whatIsAllLayer:
+    serializedVersion: 2
+    m_Bits: 481288
+  slopeCheckDistance: 0.12
+  wallBackCheckDistance: 0.2
+  edgeCheckDistance: 0.2
+  gravityMultiplier: 1.03
+  maxFallSpeed: 13.69
+  fallForce: 2.5
+  gravity: 9.81
+  initialGravity: 0.5
+  initialLinearDrag: 0.8
+  wallSlideVelocity: 0.73
+  wallSlideDownForce: -2
+  climbUpForce: 2
+  isWallSliding: 0
+  exitSlideForce: 40
+  wallClimbVelocity: 1.19
+  isHanging: 0
+  isClimbLedge: 0
+  isThrowComplete: 0
+  isAiming: 0
+  isAimCheckDecided: 0
+  rightButtonLocked: 0
+  grenadeCanceled: 0
+  mouseButttonIsInUse: 0
+  attackMovement:
+  - {x: 1, y: 0}
+  - {x: 1, y: 0}
+  - {x: 1, y: 0}
+  - {x: 1, y: 0}
+  - {x: 1, y: 0}
+  counterAttackDuration: 0.5
+  movementSpeed: 3
+  movementMiddleSpeed: 2.2
+  movementSpeedReached: 4.2
+  horizontalSpeed: 3
+  verticalAirSpeed: 0.86
+  straightJumpForce: 6
+  jumpForce: 6.27
+  jumpCutMultiplier: 0.5
+  maxJumpHoldTime: 0
+  sprintJumpForce: 5.5
+  defaultSprintJumpForce: 5.5
+  grenadeReturnImpact: 0
+  defaultMoveSpeed: 3
+  defaultJumpForce: 6.27
+  defaultStraightJumpForce: 6
+  amountOfJumps: 1
+  coyoteTime: 0.7
+  variableJumpHeightMultiplier: 2.31
+  airMovementSpeed: 1.99
+  maxAirSpeed: 1.57
+  sprintSpeed: 5.5
+  defaultSprintSpeed: 5.5
+  timeToSprint: 0.28
+  timeToMaxSpeed: 0.15
+  timeToZeroSpeed: 0.2
+  acceleration: 0.25
+  deceleration: 0.15
+  currentMoveSpeed: 0
+  crouchMovementSpeed: 1.13
+  crouchColliderSize: {x: 0.2, y: 0.53}
+  standColliderSize: {x: 0.2, y: 0.93}
+  crouchColliderOffset: {x: 0.01, y: 0.27}
+  standColliderOffset: {x: 0.01, y: 0.47}
+  ceilingCheckOffset: 0.015
+  gridSize: 0.16
+  moveDistance: 5
+  moveAlittleDistance: 4.09
+  moveAlotDistance: 0.8
+  moveDirection: {x: 1, y: 0}
+  highFallDistance: 10
+  fallLandDistance: 7
+  closestEnemyCheckRadius: 8
+  whatIsEnemy:
+    serializedVersion: 2
+    m_Bits: 128
+  defaultDashSpeed: 4.01
+  dashSpeed: 4.01
+  dashDuration: 0.33
+  moveStartAnimSpeed: 0.06
+  isRun: 0
+  isIdle: 1
+  isSprint: 0
+  isInAir: 0
+  isJumpState: 0
+  isHighFallLandState: 0
+  isFallLandState: 0
+  isSprintJumpState: 0
+  isGroundedState: 1
+  isWallSlidingState: 0
+  isClimbLedgeState: 0
+  isGrenadeState: 0
+  isCounterAttackState: 0
+  isBlackholeState: 0
+  isRunJumpLandState: 0
+  isSprintJumpLandState: 0
+  isEdgeClimbState: 0
+  isLedgeClimbState: 0
+  isCrouch: 0
+  isCrouchMoveState: 0
+  isCrouchIdleState: 0
+  isSlopeClimbState: 0
+  isLedgeClimbDown: 0
+  isWalk: 0
+  isInteract: 0
+  reachedApex: 0
+  highestPoint: 0.9648149
+  stickingForce: 20
+  maxPushForce: 5
+  fallThreshold: 10
+  isFalling: 0
+  slopeSlidingSpeed: 5
+  slopeStandingSlideSpeed: 3
+  slopeFrictionMultiplier: 0.5
+  isStaying: 1
+  ledgeDistance: 1
+  ledgeDownStartOffset: {x: -0.25, y: 1.2}
+  ledgeDownStopOffset: {x: 0, y: 0}
+  wallJumpVelocity: 6.08
+  wallJumpTime: 0.4
+  wallJumpAngle: {x: 1, y: 2}
+  startOffset: {x: 0.13, y: 1.22}
+  stopOffset: {x: 0.27, y: 0.08}
+  startEdgeOffset: {x: 0, y: 0}
+  stopEdgeOffset: {x: 0, y: 0}
+  explosionRadius: 6.16
+  minJumpCutMultiplier: 0.3
+  maxJumpCutMultiplier: 0.95

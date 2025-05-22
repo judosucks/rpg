@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb1dc4fc2180ef245a30bf730be87f05, type: 3}
+  m_Name: ThunderSword
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: ThunderSword
+  icon: {fileID: -556186484, guid: bdeaeacf91e805f449e7fa66d480d644, type: 3}
+  dropChance: 72.9
+  equitmentType: 0
+  itemEffectDescription: lllllllllllllllll
+  itemCooldown: 0
+  itemEffects:
+  - {fileID: 11400000, guid: 86856dc05187e5e4786c13140fdf1b51, type: 2}
+  strength: 0
+  agility: 0
+  intelligence: 0
+  vitality: 0
+  damage: 41
+  critChance: 70
+  critPower: 40
+  armor: 0
+  health: 0
+  evasion: 0
+  magicResistance: 0
+  fireDamage: 0
+  iceDamage: 0
+  lightningDamage: 28
+  craftingMaterials:
+  - data: {fileID: 11400000, guid: 15666e0231bc0e545b177c9c77d8f98d, type: 2}
+    stackSize: 0

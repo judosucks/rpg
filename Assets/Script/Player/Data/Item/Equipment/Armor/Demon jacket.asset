@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb1dc4fc2180ef245a30bf730be87f05, type: 3}
+  m_Name: Demon jacket
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: demon jacket
+  icon: {fileID: -1409952321, guid: be55291aae08d434db3da3b59db3ab4a, type: 3}
+  itemId: 7d6d1a09c468ba842aab2ea77d4ac5af
+  dropChance: 11
+  equipmentType: 1
+  itemCooldown: 0
+  itemEffects:
+  - {fileID: 11400000, guid: b0aeb28867a93f0419636a3e777be88d, type: 2}
+  strength: 0
+  agility: 0
+  intelligence: 0
+  vitality: 0
+  damage: 0
+  critChance: 0
+  critPower: 0
+  armor: 250
+  health: 17
+  evasion: 33
+  magicResistance: 23
+  fireDamage: 0
+  iceDamage: 0
+  lightningDamage: 0
+  craftingMaterials:
+  - data: {fileID: 11400000, guid: 55ce38c69d7aada45a549380792bb930, type: 2}
+    stackSize: 2
